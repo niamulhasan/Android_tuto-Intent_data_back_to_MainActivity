@@ -2,7 +2,7 @@
 
 ### A sample single moduler code to get refference of things
 
-Some notes
+####Some notes
 >It's a little bit diffrent to use Intent while sending back data from a sub Activity to the MainActivity; that's what is shown here
 
 >Details are commented in the class files
